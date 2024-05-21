@@ -1,0 +1,11 @@
+phoenix 09:14:25
+chicago 09:07:00
+phoenix 09:22:03
+seattle 09:02:19
+houston 09:00:13
+chicago 09:00:59
+houston 09:01:10
+chicago 09:03:13
+seattle 09:10:11
+seattle 09:10:25
+phoenix 09:14:00
